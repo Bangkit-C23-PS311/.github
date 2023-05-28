@@ -15,7 +15,7 @@
 - ditambahin bagian progres belajar (relasi antara pengguna, materi, dan latihan)
 
 3. Dataset gambar
-```https://github.com/Bangkit-C23-PS311/Data````
+```https://github.com/Bangkit-C23-PS311/Data```
 - Akurasi model under 40% 
 - Semua anggota tim diminta ngirimin 10 foto tiap huruf
 - data banyak ~ akurasi meningkat
