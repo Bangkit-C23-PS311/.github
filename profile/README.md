@@ -63,4 +63,8 @@ After running all the program code, the model will be saved in the .h5 format. T
 ## Using the Image Classification feature
 The SIBI application provides an image classification feature that allows users to train themselves in SIBI sign language using the front camera of their device. With this feature, users can capture their own hand movements and gestures while performing the SIBI sign language.
 
-
+### Another Attachment
+1. [Wireframe](https://whimsical.com/sibisa-13r3ttr9E5bzZRkcnY8kvk)
+2. [UI](https://www.figma.com/file/EZIAgwFB884ajx4sapmYCW/SIBISA-UI?type=design&node-id=0-1)
+3. [Database Design](https://drive.google.com/file/d/1z-l4pftJsL-6gPFo8MRKCSWHfH_SvhRX/view?usp=sharing)
+4. [Cloud Architecture](https://drive.google.com/file/d/1RkoSGgp0WkhpS11xEiRhfSWYOUTaCX33/view)
